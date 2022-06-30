@@ -27,3 +27,4 @@ import pywhatkit
 print ('pywhatkit: %s' % pywhatkit.__version__)
 
 # libreria de pyaudio toca desde este sitio web https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+# Version de pyton usada para este proyecto es la 3.10.5 
